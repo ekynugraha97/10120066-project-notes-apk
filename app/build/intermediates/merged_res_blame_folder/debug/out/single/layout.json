@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.eky.tugasuts.app-mergeDebugResources-31:/layout/fragment_add_diary.xml",
+        "source": "com.eky.tugasuts.app-main-34:/layout/fragment_add_diary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\item_daily.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\item_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\homescreen_content.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\homescreen_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\homescreen_header.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\homescreen_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\fragment_daily.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\fragment_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\activity_welcome2.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_welcome2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\activity_welcome1.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_welcome1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\homescreen_bar.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\homescreen_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\activity_splashschreen.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_splashschreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\fragment_add_diary.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\fragment_add_diary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\activity_welcome3.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_welcome3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.eky.tugasuts.app-mergeDebugResources-31:/layout/fragment_daily.xml",
+        "source": "com.eky.tugasuts.app-main-34:/layout/fragment_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-mergeDebugResources-31:\\layout\\about.xml",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\about.xml"
+    }
+]

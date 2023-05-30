@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_light.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_homescreen_content.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\homescreen_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_item_daily.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\item_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_activity_welcome1.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_welcome1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_idris.jpeg.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\idris.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_exercise.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_activity_splashschreen.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_splashschreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_welcome_logo2.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\welcome_logo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_telegram.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_telegram.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_eky.jpg.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\eky.jpg"
+    },
+    {
+        "merged": "com.eky.tugasuts.app-merged_res-32:/layout_fragment_daily.xml.flat",
+        "source": "com.eky.tugasuts.app-main-34:/layout/fragment_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_sleep.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_sleep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_activity_welcome2.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_welcome2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_instagram.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_instagram.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_google_mail.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_google_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_homescreen_header.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\homescreen_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "com.eky.tugasuts.app-merged_res-32:/layout_fragment_add_diary.xml.flat",
+        "source": "com.eky.tugasuts.app-main-34:/layout/fragment_add_diary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_border1.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\border1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_google_maps.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_google_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_about.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_fragment_daily.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\fragment_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_welcome_logo3.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\welcome_logo3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable-mdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-pngs-27:\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_three_dot.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_three_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_activity_welcome3.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_welcome3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable-ldpi_ic_info.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-pngs-27:\\drawable-ldpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_logo_nadia.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\logo_nadia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_linkedin.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_linkedin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_welcome2.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\welcome2.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_study_student.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_study_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable-xxxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-pngs-27:\\drawable-xxxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable-anydpi-v24_ic_info.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-pngs-27:\\drawable-anydpi-v24\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\navigation_navigation_mobile.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\navigation\\navigation_mobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable-xhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-pngs-27:\\drawable-xhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-pngs-27:\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_avatar_card_education.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_avatar_card_education.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_working_work.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_working_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_welcome1.jpg.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\welcome1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\menu_home_drawer.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\menu\\home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_fragment_add_diary.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\fragment_add_diary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\layout_homescreen_bar.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\layout\\homescreen_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_welcome3.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\welcome3.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable-hdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-pngs-27:\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_github.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_github.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_ic_whatsapp.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\ic_whatsapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-merged_res-32:\\drawable_welcome_logo1.xml.flat",
+        "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\daemon\\7.3.3\\com.eky.tugasuts.app-main-34:\\drawable\\welcome_logo1.xml"
+    }
+]
